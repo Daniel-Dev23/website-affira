@@ -1,5 +1,7 @@
 # __Website Affira__
 
+Este sitio web, es privado y aún no esta lanzado al público en general, pero tengo permisos para mostrar imágenes previas de lo que es:
+
 > Inicio
 
 <div>
