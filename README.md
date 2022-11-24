@@ -20,10 +20,6 @@ La adaptación de dicho sitio web fue una actividad en la cual participe. El sit
 
 Mi participación fue adaptar el contenido según lo esperado por Grupo Commart, además de hacer pruebas de funcionamiento en diferentes dispositivos y la correción de errores ya integrados en la plantilla.
 
-__[Ver Imágenes De Proyecto](./thumbnails.md)__
-
-<br>
-
 ---
 
 ## __Medios de Contacto__
